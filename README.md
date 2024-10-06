@@ -1,6 +1,5 @@
-# CS5150FinalProject  
 Spring 2024  
-Nicholas Payson, Abhishek Rao, Meng-Hsien (Joey) Tsai, Zakir Makhani  
+Abhishek Rao
 
 Files:  
 PlayableVersion : jupyter notebook file that when run, allows a player (possibly only on Windows) to drive in the environment with WASD.  
